@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="***USA Local TV perlaiptv" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA Local TV - github.com/Free-IPTV
-https://github.com/perlaiptv/iptv/blob/455581b4b14f199424f6e31e5e948f8096942b23/newperla.mp4
+https://raw.githubusercontent.com/perlaiptv/iptv/main/newperla.mp4
 
 
 
@@ -155,8 +155,6 @@ https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oitvOug.png" group-title="USA DISTRO",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 
-#EXTINF:-1 tvg-name="*** USA REDBOX - github.com/Free-IPTV" group-title="USA REDBOX" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",*** USA REDBOX - github.com/Free-IPTV
-https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJGaOdW.png" group-title="USA REDBOX",American Classics
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/OjBnAUM.png" group-title="USA REDBOX",The Asylum
